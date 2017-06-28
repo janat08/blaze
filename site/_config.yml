@@ -57,6 +57,9 @@ nav_links:
   'Forums':
     url: https://forums.meteor.com/c/blaze
     target: _new
+  'Donate':
+    url: https://opencollective.com/blaze
+    target: _new
 
 social_links:
   github: 'https://github.com/meteor/blaze'
